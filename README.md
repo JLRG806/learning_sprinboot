@@ -43,15 +43,15 @@ Se abrira un servidor web en `http://localhost:8080`, y al acceder a esta URL, d
 
 ### Dudas y concluciones
 
-Me interesa saber que es lo que sigue en el tutorial de Spring?
+¿Me interesa saber que es lo que sigue en el tutorial de Spring?
 
-Que arquitecturas se pueden aplicar con srping boot?
+¿Que arquitecturas se pueden aplicar con srping boot?
 
-Como se maneja las peticiones con parametros en body, query, y req-form?
+¿Como se maneja las peticiones con parametros en body, query, y req-form?
 
-Como se maneja JSON dentro de la aplicacion?
+¿Como se maneja JSON dentro de la aplicacion?
 
-De que manera puedo especificar los puertos en los que quiero que el servidor se exponga?
+¿De que manera puedo especificar los puertos en los que quiero que el servidor se exponga?
 
 Hasta ahora he navegado un poco sobre este entorno de trabajo, me ha parecido algo muy sencillo de utilizar, practicare mas
 
